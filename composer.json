@@ -3,7 +3,7 @@
     "description": "TwigAssets - on-the-fly assets manager for Twig template engine",
     "keywords": ["twig", "assets", "template"],
     "type": "library",
-    "homepage": "https://github.com/assarte/TwigAssets",
+    "homepage": "https://github.com/Webapper/TwigAssets",
     "license": "CC-4.0",
     "authors": [
         {
